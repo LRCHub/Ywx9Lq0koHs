@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "THE DAY",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2025-12-08T13:40:40.387784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now the Day Is Over",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/01_Now_the_Day_Is_Over_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shadow Of The Day",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Shadow_Of_The_Day_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Predict The Day",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/03_Predict_The_Day_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back in the Day (feat. Jay-Z)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/04_Back_in_the_Day_(feat._Jay-Z)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Day",
+      "artist": "The Roots feat. Blu, Phonte & Patty Crash",
+      "has_synced": true,
+      "path": "select/05_The_Day_The_Roots_feat._Blu,_Phonte_&_Patty_Crash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Day (Feat. Blu, Phonte & Patty Crash)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/06_The_Day_(Feat._Blu,_Phonte_&_Patty_Crash)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Til the Day I Die",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/07_Til_the_Day_I_Die_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Could Spend the Day",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/08_I_Could_Spend_the_Day_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Out of the Day (demo)",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/09_Out_of_the_Day_(demo)_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Day John Kennedy Died",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/10_The_Day_John_Kennedy_Died_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back in the Day (feat. Jay-Z)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/11_Back_in_the_Day_(feat._Jay-Z)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunday (The Day Before My Birthday)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/12_Sunday_(The_Day_Before_My_Birthday)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunday (The Day Before My Birthday)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/13_Sunday_(The_Day_Before_My_Birthday)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Day",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/14_The_Day_Moby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Day (orchestral version)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/15_The_Day_(orchestral_version)_Moby.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE DAY",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_THE_DAY_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "THE DAY",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_THE_DAY_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The Day",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_The_Day_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "THE DAY",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_THE_DAY_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "THE DAY",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_THE_DAY_ポルノグラフィティ.txt"
+    }
+  ]
+}
